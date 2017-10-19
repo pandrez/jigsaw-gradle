@@ -23,7 +23,7 @@ repositories {
 
 javaModule.name = 'com.dummyjigsaw.gradle.app'
 
-mainClassName = 'com.dummyjigsaw.gradle.MainGradle'
+mainClassName = 'com.dummyjigsaw.gradle.Main'
 
 // In this section you declare the dependencies for your production and test code
 dependencies {
